@@ -16,7 +16,7 @@
 # in the templates via {{ site.myvariable }}.
 author: Alek Sharma
 title: the traveling tritone
-email: aleksharma12@gmail.com
+email: travelingtritone@gmail.com
 description: Providing optimistic dissonance for the busy human since 1989.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
