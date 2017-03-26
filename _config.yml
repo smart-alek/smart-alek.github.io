@@ -21,4 +21,5 @@ exclude:
   - Gemfile.lock
 
 collections:
-- poems
+  poems:
+    output: true
