@@ -1,25 +1,17 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server
-# process.
+# use config for global blog settings; frequently changed settings go in data
+# if you change _config.yml, make sure to restart the server process
 
-# Site settings: access in templates via {{ site.myvariable }}
+# SITE SETTINGS
+# access in templates via {{ site.myvariable }}
 author: Alek Sharma
 title: the traveling tritone
 email: travelingtritone@gmail.com
 description: Providing optimistic dissonance for the busy human since 1989.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://travelingtritone.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: alek_sharma
 github_username: smart-alek
 
-# Build settings
+# BUILD SETTINGS
 markdown: kramdown
 theme: minima
 gems:
@@ -27,3 +19,6 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+collections:
+- poems
