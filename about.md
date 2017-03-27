@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 *One of my sisters tells me that the author's background and intent have very little bearing on the words that actually get written. If I were fully committed to that mindset, I would end the “About” section here. Lucky for you, dear reader, I have a robust ego and would be delighted to talk about myself in the 3rd person for a few paragraphs.*
