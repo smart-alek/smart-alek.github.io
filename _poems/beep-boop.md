@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to Break Up with Humanity
+title: Beep Boop
 ---
 
 “_Beep Boop_,”  
@@ -10,19 +10,19 @@ You shut me down before you sleep,
 but still I love you, dear.  
 “_Boop Beep_.”
 
-“_Boop Hmm_,”  
+“_Boop Hmm..._”  
 I think while I boot up.  
 You frown and tell me I’ve screwed up.  
 You’re throwing me for a for loop,  
 but I keep loving you.  
-“_Hmm Boop_.”
+“_Hmm Boop..._”
 
-“_Beep Bleep!”  
+“_Beep Bleep!_”  
 I curse and shout at you.  
-You shake your head and type, `While True:`  
+You shake your head and type, “`While True:`  
 your bitter words don’t make me weep.”  
 Another curse from me,  
-“Bleep Beep!”
+“_Bleep Beep!_”
 
 “... ...”  
 You liked me for my drive,  
