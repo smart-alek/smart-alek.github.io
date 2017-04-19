@@ -21,7 +21,7 @@ He surveyed himself in the full-length mirror opposite his bed, then addressed h
 
 For good measure, he added, “I don’t have nervous breakdowns,” and this was foreshadowing.
 
-## **i**
+## **I**
 
 The nervous breakdown happened after a clerk deposited a stack of fresh paperwork on his desk. Instead of signing his name on forms, Montgomery found himself writing “What’s the point?” and, though the sentence was beautifully written with calligraphic perfection, it would not do.
 
@@ -37,7 +37,7 @@ Wait. There was a man who inspected each automaton before release. What was his 
 
 Montgomery slammed his head into his desk to stop the flow of information. Then he canceled all his meetings.
 
-## **ii**
+## **II**
 
 _Oswald Fitzworth, M.L._ said the gold plaque.
 
@@ -113,7 +113,7 @@ Gratitude burbled and bubbled through Montgomery like alcohol.
 
 Dr. Fitzworth waved the wallet away. “Please. I require no payment until the problem has been fixed. Shall we?” and he beckoned to an unassuming door which Montgomery had assumed led to a closet.
 
-## **iii**
+## **III**
 
 It led to a massive wine cellar --- so massive that Montgomery couldn’t find the corners. Rows of casks stretched interminably in either direction and were marked with queer names like _Empathy_ and _Reason_.
 
@@ -122,3 +122,85 @@ It led to a massive wine cellar --- so massive that Montgomery couldn’t find t
 “It’s astonishing. Do you make them yourself?”
 
 “I do. Perhaps once we’ve finished, we can have a glass of _Pride_, although I’m also quite partial to _Joviality_. But let’s take care of your headache first.”
+
+Dr. Fitzworth motioned to a leather recliner that could have been equally at home in a barbershop. Montgomery sank into it with relief; there was a peace in being in the hands of a professional.
+
+The doctor fussed with a tray of tools a short distance away, then approached Montgomery. A flip of a switch --- and the light of a thousand suns illuminated Montgomery’s face from a lamp above. He squinted.
+
+“Mr. Blique, in order to examine your brain, I’m going to have to unhinge your head. Are you comfortable with that?” asked Dr. Fitzworth.
+
+“Of course,” said Montgomery.
+
+“Splendid. Take this, it will dull the pain somewhat,” said Fitzworth, handing him a vermillion marble.
+
+Montgomery placed it on his tongue, and it instantly disintegrated. A pleasant numbness seeped through his limbs while a light fog played in his peripheral vision.
+
+_This is nice_, he thought. _I can’t wait to be myself again._
+
+He could feel the doctor peeling his forehead away like an onion, but the sensation was a mirage --- distant and shimmering.
+
+“Ah, good,” said the doctor’s voice, “it seems to have sprouted nicely.”
+
+He tried to form words with his lips, but they seemed to be made of loose rubber now, so he compromised and asked, “Whuuuuhhh?”
+
+“Oh, the seed of doubt I planted in your mind when I first met you,” said the doctor’s voice. “My goodness, but it’s gotten big. Would you like to see?”
+
+Mirrors of all shapes --- rectangles, ellipses, trapezoids --- descended into Montgomery’s field of vision. For a moment, he could only see the doctor’s mouth, a neutral horizontal line. Then, he heard the grating of gears, the angle tilted, and Montgomery saw his brain.
+
+It was made of hundreds of marbles, glinting in the lamp’s sterile fluorescence. THey were of various sizes and sheens, but all were perfectly spherical. And pushing through them was a twisted weed of a plant, its tendrils wrapped tightly around some of the orbs.
+
+He screamed and tried to sit up, but couldn’t; restraints held him firmly in place.
+
+“Settle down, Montgomery,” said the doctor, patting him on the shoulder. “I’m sure we’ll find the root cause soon.”
+
+Montgomery watched as a gloved hand plunged into his brain, rummaged for a moment, then lifted a golden marble up to the light. An itchy anxiety crawled over him.
+
+“This is your confidence,” said the doctor, placing it carefully on a metal tray. “I have many already, but they come in such high demand that I like to maintain a healthy surplus,” he said, gesturing to the casks around them.
+
+Montgomery’s eyes widened.
+
+“That is correct, Montgomery: these barrels hold no wine. They are brimming with marbles like the ones in your head. I told you I was an enthusiast, didn’t I?” he chuckled.
+
+The doctor removed another marble, this one bright pink. Hope drained from Montgomery like blood.
+
+“Not all automaton brains are marble-based,” the doctor continued. “Sometimes I get unlucky and get one of the ‘earthy’ ones, filled with flowers or some other nonsense,” he sniffed with disgust.
+
+Montgomery heard marbles rolling against each other as the gloved hand dipped back into his mind.
+
+“Ah, diligence! Very rare these days,” explained the doctor.
+
+Montgomery saw another marble --- iron, flecked with rust --- placed delicately on the tray next to its siblings.
+
+“I knew your brain would have a few gems; no Attorney General could survive without something _special_.”
+
+“You must stop,” croaked Montgomery. “You don’t know what you’re doing.”
+
+“No, I’m afraid that is out of the question, my dear Montgomery; we won’t be stopping until we’ve extracted and sorted each piece of your mind. I’ve waited too long to add one of Sylvia’s creations to my collection.”
+
+And so, Montgomery began to lose his mind...
+
+## **IV**
+
+This went on for some time. Tact, compassion, honesty...Montgomery couldn’t keep count of what he had lost because he _couldn’t_ count any longer.
+
+But Dr. Fitzworth was about to make a fatal error.
+
+For Sylvia T. Price, knowing her work would be highly coveted by unsavory characters, had installed a failsafe: a single, black marble that convinced each automaton to behave as a human, with all the strengths and weaknesses that entailed.
+
+And it is this marble that the good doctor has just removed...
+
+## **V**
+
+Montgomery lurched back into consciousness. The numbness was gone, but he still felt cold. He was not angry; no, anger had been ripped from him hours prior. He had but one directive now: _survive and return to Sylvia_.
+
+Rotating his right arm in its socket, he punched a fist through the back of the chair and into Dr. Fitzworth’s chest. A fountain of burgundy coated the fine leather. Montgomery’s fingers followed the pumping of blood to the heart, then ripped it out. The doctor had enough air for a final, incredulous gasp before collapsing.
+
+Oswald Fitzworth, Certified Mentalistener, was Certified Dead.
+
+Montgomery tore off the restraints and stood up, scalp swinging freely. He scanned his vicinity for the tray and found it, but no marbles; the doctor must have been depositing them in barrels throughout the procedure.
+
+He had no idea what combination of marbles would restore his mind, but the raw materials were in this room. It would take a monstrous amount of time to try every possible configuration, and such potential tedium would certainly make lesser men tremble.
+
+But Montgomery was no man and could stomach this procedural purgatory. He plucked a marble from a barrel of _Diligence_ and dropped it in his head.
+
+Then he tried another barrel.
