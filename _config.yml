@@ -23,3 +23,5 @@ exclude:
 collections:
   poems:
     output: true
+  short-stories:
+    output: true
