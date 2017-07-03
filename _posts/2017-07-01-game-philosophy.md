@@ -26,7 +26,7 @@ Student: "..."
 
 ### Rules Are Rules
 
-Besides being hilarious, this exchange illustrates one of the key requirements of a game: contraints. There are things you can and cannot do.
+Besides being hilarious, this exchange illustrates one of the key requirements of a game: constraints. There are things you can and cannot do.
 
 Rules aren't limited to games, of course. They crop up in the real world as laws. And these can be physical laws of nature or human laws of society. But the key idea that I really like is that creativity emerges from constraints.
 
