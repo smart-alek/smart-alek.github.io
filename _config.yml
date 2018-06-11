@@ -6,11 +6,16 @@
 # access in templates via {{ site.myvariable }}
 author: Alek Sharma
 title: Alek Sharma
-email: aleksharma12@gmail.com
 description: Providing optimistic dissonance for the busy human since 1989.
 url: "http://aleksharma.com"
+
+# contact info
+email: aleksharma12@gmail.com
 twitter_username: alek_sharma
 github_username: smart-alek
+
+# display posts with future dates
+future: true
 
 # BUILD SETTINGS
 markdown: kramdown
