@@ -1,5 +1,6 @@
-# use config for global blog settings; frequently changed settings go in data
-# if you change _config.yml, make sure to restart the server process
+# use config for global blog settings.
+# frequently changed settings go in data.
+# if you change _config.yml, make sure to restart the server process.
 
 # SITE SETTINGS
 # access in templates via {{ site.myvariable }}
