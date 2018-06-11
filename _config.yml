@@ -5,10 +5,10 @@
 # SITE SETTINGS
 # access in templates via {{ site.myvariable }}
 author: Alek Sharma
-title: the traveling tritone
-email: travelingtritone@gmail.com
+title: Alek Sharma
+email: aleksharma12@gmail.com
 description: Providing optimistic dissonance for the busy human since 1989.
-url: "http://travelingtritone.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://aleksharma.com"
 twitter_username: alek_sharma
 github_username: smart-alek
 
