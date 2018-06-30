@@ -67,7 +67,7 @@ to all the media I'm trying to consume.
 Behold!
 My Trello board for games.
 
-![Are you not entertained?]({{ "/assets/trello-games.png" | absolute_url }})
+![Are you not entertained?]({{ "/assets/games-trello.png" | absolute_url }})
 
 ## The System
 
