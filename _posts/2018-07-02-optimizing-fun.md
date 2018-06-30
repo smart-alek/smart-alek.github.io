@@ -73,14 +73,11 @@ This board is inspired by [Getting Things Done](https://hamberg.no/gtd/),
 with just a **dash** of [Agile methodology](https://en.wikipedia.org/wiki/Agile_software_development).
 Both are lean processes designed to keep things moving,
 like a high-fiber diet.
+To do that,
+I rank games by two metrics:
+**quality** and **time**.
 
-My system has three objectives:
-
-1. Prioritize Quality
-2. Save Time
-3. Incentivize Commitment
-
-### Prioritize Quality
+### Quality
 
 When I let my whims decide what I'm consuming,
 there's no quality assurance.
@@ -102,9 +99,25 @@ I want quality games to bubble to the top of a list.
 Then,
 without thinking,
 I can pluck a game from the top
-and know I'm getting the next Best Game.
+and know I'm getting a Quality Game.
 
-### Save Time
+So what **is** a Quality Qame?
+This is absolutely the title of another blog post,
+but for now, be content with some unexplained bullet points.
+
+_A game is high quality if it..._
+
+- keeps me in a [flow state](https://www.gamasutra.com/view/feature/166972/cognitive_flow_the_psychology_of_.php) for most of its duration.
+- causes an emotional reaction.
+- self-contained and doesn't require external sources like wikis or guides.
+
+Without actually playing a game,
+it can be tricky to know
+whether it satisfies any of these conditions.
+So (unfortunately) I have to rely on trusted sources
+like [Rock, Paper, Shotgun](https://www.rockpapershotgun.com/).
+
+### Time
 
 Games vary wildly in the amount of time they demand.
 You might spend 3 mind-bending hours with [_Pony Island_](https://store.steampowered.com/app/405640/Pony_Island/),
@@ -116,8 +129,10 @@ Long games are more prone to bloating or padding --
 you'll likely have to grind or farm at some point.
 These are design smells and wastes of time.
 
-Rather than specialize in a few games,
-I want to have breadth of experience.
+This doesn't mean that long games are **off** the table;
+they should just be **further down** the table.
+This is apparently a [very French](https://spoonuniversity.com/lifestyle/10-ways-the-french-view-food-differently-than-americans) way of consuming things,
+although I am not French.
 
 ### Incentivize Commitment
 
@@ -131,7 +146,8 @@ I want to finish the games I start, which actually means I just want to reach **
 
 ## The System
 
-How does this system work? Does it work?
+How does this system work?
+**Does** it work?
 
 ### Unreleased / Unpurchased
 
