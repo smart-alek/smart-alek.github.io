@@ -3,27 +3,76 @@ layout: post
 title: Optimizing Fun
 ---
 
-I, like many gamers, have an obscenely large backlog of games.
+I,
+like many gamers,
+have an obscenely large backlog of games.
 
-It began many years ago when I received _The Orange Box_ as a gift. _Half-Life 2_ demanded to be played through something called "Steam", and I begrudgingly installed the software.
+It began many years ago
+when I received _The Orange Box_ as a gift.
+_Half-Life 2_ demanded
+to be played through something called "Steam",
+and I begrudgingly installed the software.
 
-"There. Are you happy?" I asked _Half-Life 2_. "Yes," it said. "Thank you for selling your soul to Valve. We will take good care of it."
+"There. Are you happy?" I asked _Half-Life 2_.
+"Yes," it said.
+"Thank you for selling your soul to Valve,
+we will take good care of it."
 
-Since then, the games have piled up with alarming velocity. There's always one more game that snags me with sparkly screenshots, another tantalizing sale, the alluring promise of something **new** and **different**.
+Since then,
+the games have piled up with alarming velocity.
+There's always one more game
+that snags me with sparkly screenshots,
+another tantalizing sale,
+the alluring promise of something **new** and **different**.
 
-I have succumbed to many of these temptations, and the sheer weight of my backlog has paralyzed me. When I sit down to play a game, I am plagued by doubts: is this **really** the most fun I could be having right now?
+I have succumbed to many of these temptations,
+and the sheer weight of my backlog often paralyzes me.
+When I sit down
+to play a game,
+I am pursued by a disturbing doubt:
+is this **really** the most fun I could be having right now?
 
-It is a stupid problem to have, one that feels awkward to even describe. But it is also a modern problem. There is **so much** being produced these days that it would require several full-time jobs to actually consume it all. Even if you don't share my exact affliction, you likely have a problem with some other medium. Have you read every book you own? Or worse: every book you **want** to read? Ghastly.
+It is a stupid problem to have,
+one that feels awkward to even describe.
+But it is also a modern problem.
+There is **so much** being produced these days
+that it would require several full-time jobs
+to actually consume it all.
+Even if you don't share my exact affliction,
+you likely have a problem with some other medium.
+Have you read every book you own?
+Or worse: every book you **want** to read?
+Ghastly.
 
-When I hit the weekend, I often wring my hands, knowing that free time is **special**. And there is a tremendous urge to maximize my use of it. I am ashamed to admit how much time I've spent scrolling through my Steam library, hoping to select The Best Game for the eve.
+When I hit the weekend,
+I often wring my hands,
+knowing that free time is **special**.
+And there is a tremendous urge
+to maximize my use of it.
+I am ashamed to admit
+how much time I've spent scrolling through my Steam library,
+hoping to select The Best Game for the eve.
 
-Fortunately for myself and my sanity, I work in tech, an industry filled with people who like doing things efficiently. These engineers and product managers have developed tools and processes to Prioritize Things, and I, in a fit of productivity, have applied these processes to all the media I'm trying to consume.
+Fortunately for myself and my sanity,
+I work in tech,
+an industry filled with people
+who like doing things efficiently.
+These engineers and product managers have developed tools and processes
+to Prioritize Things,
+and I,
+in a fit of productivity,
+have applied these processes
+to all the media I'm trying to consume.
 
-Behold! My Trello board for games.
+Behold!
+My Trello board for games.
 
 ![Are you not entertained?]({{ "/assets/trello-games.png" | absolute_url }})
 
-This board was mainly inspired by [Getting Things Done](https://hamberg.no/gtd/), with just a **dash** of [Agile methodology](https://en.wikipedia.org/wiki/Agile_software_development). Both are lean processes designed to keep things moving, like a high-fiber diet.
+This board is inspired by [Getting Things Done](https://hamberg.no/gtd/),
+with just a **dash** of [Agile methodology](https://en.wikipedia.org/wiki/Agile_software_development).
+Both are lean processes designed to keep things moving,
+like a high-fiber diet.
 
 My system has three objectives:
 
@@ -33,19 +82,42 @@ My system has three objectives:
 
 ### Prioritize Quality
 
-When I let my whims decide what I'm consuming, there's no quality assurance. I might **think** I know what I want, but I usually don't. So I pick a mediocre game, play it for a couple hours, experience dissatisfaction, then repeat the process with another subpar game. Madness!
+When I let my whims decide what I'm consuming,
+there's no quality assurance.
+I might **think** I know what I want,
+but I usually don't.
+So I pick a mediocre game,
+play it for a couple hours,
+experience dissatisfaction,
+then repeat the process with another subpar game.
+Madness!
 
-If I died tomorrow, would there be games I regretted not experiencing? Yes! There's a whole list! We have a finite amount of time on this planet, and spending it on mediocrity makes me barf. I want quality games to bubble to the top of a list. Then, without thinking, I can pluck a game from the top and know I'm getting something great.
+If I died tomorrow,
+would there be games I regretted not experiencing?
+Yes!
+There's a whole list!
+We have a finite amount of time on this planet,
+so spending it on mediocrity makes me barf.
+I want quality games to bubble to the top of a list.
+Then,
+without thinking,
+I can pluck a game from the top
+and know I'm getting the next Best Game.
 
 ### Save Time
 
-Games vary wildly in the amount of time they demand. You might spend 3 mind-bending hours with [_Pony Island_](https://store.steampowered.com/app/405640/Pony_Island/), or push past 100 with a behemoth like _Skyrim_. In my experience, the most impactful games are between 8-12 hours. For comparison, the first season of _Game of Thrones_ is about 9 hours, and that obviously had an impact.
+Games vary wildly in the amount of time they demand.
+You might spend 3 mind-bending hours with [_Pony Island_](https://store.steampowered.com/app/405640/Pony_Island/),
+or push past 100 with a behemoth like _Skyrim_.
+In my experience,
+the most impactful games are between 8-12 hours,
+or about the length of a season of _Game of Thrones_.
+Long games are more prone to bloating or padding --
+you'll likely have to grind or farm at some point.
+These are design smells and wastes of time.
 
-Rather than specialize in a few games, I've always preferred to sample as many as I can. If I have to choose between a monster like _Skyrim_ or 25 shorter games, I am always going to pick the latter. I want to favor short, unique games over massive time commitments. This is because I love learning. And **starting** games involves a lot of learning. When I stop learning, I lose interest and look for my next educational hit.
-
-Happily, the best games are designed to continuously offer an achievable challenge --- a magical place where the most effective learning takes place. Easy games aren't satisfying; hard games are demoralizing. Games should be played for as long as they can consistently keep you in a [flow state](https://www.gamasutra.com/view/feature/166972/cognitive_flow_the_psychology_of_.php). In the **best** games, of course, you're in a flow state the entire time, and there is no tutorial because the game **is** the tutorial.
-
-So! I want to play games that consistently stretch me, but I also want games to respect my time. Well-designed games do not require grinding or farming; every failure is important.
+Rather than specialize in a few games,
+I want to have breadth of experience.
 
 ### Incentivize Commitment
 
