@@ -81,28 +81,38 @@ Let's take a look at the lists.
 
 ### Unreleased / Unpurchased
 
-Games that are on my radar but haven't been released or purchased. I wanted to have a way to keep track of new games that interest me so I can buy them later.
+A watch list for interesting games I don't own.
+Ranked by general release date.
 
 ### Backlog
 
-Games I own that I haven't prioritized.
+A list of all the games I own that haven't been explicitly prioritized.
 
 ### To Play
 
-These are games I've prioritized, either because of critical acclaim or personal interest. Generally, the games require more time as you move down the list. I did this intentionally so I could experience many **kinds** of games. There is a larger post here about breadth-first gaming versus depth-first gaming, but I'll save that conversation for later.
+A list of games I've prioritized,
+ranked by [quality and time](#the-metrics).
 
 ### Playing
 
-Games I'm currently playing. I'm trying to keep this list as small as possible to minimize [work in progress](https://www.atlassian.com/agile/kanban/wip-limits) and [context switching](https://blog.trello.com/why-context-switching-ruins-productivity).
+A list of games I'm currently playing.
+I try to keep this list as short as possible
+to minimize [work in progress](https://www.atlassian.com/agile/kanban/wip-limits) and [context switching](https://blog.trello.com/why-context-switching-ruins-productivity).
 
-### Completed This Month (not visible)
+### Completed This Month
 
-Games I've actually finished this month. Currently, that's Regency Solitaire, FEZ, and Bayonetta. My sister pointed out that I'm probably not closing the loop on my experiences unless I actually write about the games I play, and she's absolutely right. So any game that makes it into this category will be written about.
+Games I've finished this month.
+My sister observed
+that I'm probably not processing my feelings on a game
+unless I write about it,
+and she's absolutely right.
+So I'll probably be adding another list
+for completed games that are being analyzed.
 
 ## The Metrics
 
-To do that,
-I rank games by two metrics:
+The "To Play" list is the most important one.
+I rank games in this list by two metrics:
 **quality** and **time**.
 
 ### Quality
@@ -172,14 +182,17 @@ The first rule eliminates games that occur in matches, sessions, or runs.
 This means games like _League of Legends_, _Civilization_, and every roguelike are at an immediate disadvantage.
 Sites like [HowLongToBeat](https://howlongtobeat.com/) help me get a sense of the time required before I commit to anything.
 
----
+# Onward!
 
-Where before I might have languished in a sort of gaming purgatory, wondering how best to spend my time, this system allows me to grab the next game without wondering whether it's a good use of time, and already I've seen drastic improvements, notably:
+So that's the system!
+I am sure it's broken!
+But so far it's been helping me make decisions,
+and that, at least, is a win.
 
-With the "I could die tomorrow" philosophy, I've been prioritizing the good stuff over the it-might-be-good stuff. I've been surprised at just **how** good the good stuff is. And I'm angry at myself for saying no to quality in the name of completionism or curiosity.
+**Every Monday morning**,
+I'll be publishing a new blog post.
+Most of these will be about games or other media,
+but there will also be occasional detours into other subjects,
+depending on my mood or attention span.
 
-I'm motivated to get to the end of a game because it means I can try another game.
-
-### on saving money
-
-I've decided not to buy any new games until I've finished working through my backlog. This will probably take a really long time, but it's a rule that will pay off (heh) in the end.
+UNTIL THEN.
