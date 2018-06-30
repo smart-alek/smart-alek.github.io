@@ -69,10 +69,38 @@ My Trello board for games.
 
 ![Are you not entertained?]({{ "/assets/trello-games.png" | absolute_url }})
 
-This board is inspired by [Getting Things Done](https://hamberg.no/gtd/),
+## The System
+
+The board above is inspired by [Getting Things Done](https://hamberg.no/gtd/),
 with just a **dash** of [Agile methodology](https://en.wikipedia.org/wiki/Agile_software_development).
 Both are lean processes designed to keep things moving,
 like a high-fiber diet.
+Each game gets its own card,
+and each card lives in a list representing its position in the overall process.
+Let's take a look at the lists.
+
+### Unreleased / Unpurchased
+
+Games that are on my radar but haven't been released or purchased. I wanted to have a way to keep track of new games that interest me so I can buy them later.
+
+### Backlog
+
+Games I own that I haven't prioritized.
+
+### To Play
+
+These are games I've prioritized, either because of critical acclaim or personal interest. Generally, the games require more time as you move down the list. I did this intentionally so I could experience many **kinds** of games. There is a larger post here about breadth-first gaming versus depth-first gaming, but I'll save that conversation for later.
+
+### Playing
+
+Games I'm currently playing. I'm trying to keep this list as small as possible to minimize [work in progress](https://www.atlassian.com/agile/kanban/wip-limits) and [context switching](https://blog.trello.com/why-context-switching-ruins-productivity).
+
+### Completed This Month (not visible)
+
+Games I've actually finished this month. Currently, that's Regency Solitaire, FEZ, and Bayonetta. My sister pointed out that I'm probably not closing the loop on my experiences unless I actually write about the games I play, and she's absolutely right. So any game that makes it into this category will be written about.
+
+## The Metrics
+
 To do that,
 I rank games by two metrics:
 **quality** and **time**.
@@ -131,43 +159,20 @@ These are design smells and wastes of time.
 
 This doesn't mean that long games are **off** the table;
 they should just be **further down** the table.
-This is apparently a [very French](https://spoonuniversity.com/lifestyle/10-ways-the-french-view-food-differently-than-americans) way of consuming things,
-although I am not French.
+This is apparently a [very French way](https://spoonuniversity.com/lifestyle/10-ways-the-french-view-food-differently-than-americans) of consuming things.
 
-### Incentivize Commitment
+So! This metric really boils down to two rules:
 
-While I value my time, I think "finishing" games is important, too. I put "finishing" in quotes because I'm very much **not** talking about completionism --- a crippling disease carried by most gamers.
+1. Play games with actual conclusions.
+2. The longer the game,
+the more quality you should expect.
 
-With a few exceptions, I do not enjoy games that never end. This is because depth comes at the cost of breadth. When I ended my years-long obsession with League of Legends, I experienced an exhilarating freedom. No longer chained to endless matches, I could now funnel that time into fresh gaming experiences.
+Time is much easier to measure than quality.
+The first rule eliminates games that occur in matches, sessions, or runs.
+This means games like _League of Legends_, _Civilization_, and every roguelike are at an immediate disadvantage.
+Sites like [HowLongToBeat](https://howlongtobeat.com/) help me get a sense of the time required before I commit to anything.
 
-As mentioned above, though, my anxiety around the "best" use of time can be problematic. It can prevent me from fully committing to any particular game. And I think a lack of commitment can be just as damaging as an abundance.
-
-I want to finish the games I start, which actually means I just want to reach **an** end. I don't need to find every secret door or collect all the feathers; I just want to experience **most** of what the game has to offer.
-
-## The System
-
-How does this system work?
-**Does** it work?
-
-### Unreleased / Unpurchased
-
-Games that are on my radar but haven't been released or purchased. I wanted to have a way to keep track of new games that interest me so I can buy them later.
-
-### Backlog
-
-Games that I own that I have not yet decided to play.
-
-### To Play
-
-These are games I've prioritized, either because of critical acclaim or personal interest. Generally, the games require more time as you move down the list. I did this intentionally so I could experience many **kinds** of games. There is a larger post here about breadth-first gaming versus depth-first gaming, but I'll save that conversation for later.
-
-### Playing
-
-Games I'm currently playing. I'm trying to keep this list as small as possible to minimize [work in progress](https://www.atlassian.com/agile/kanban/wip-limits) and [context switching](https://blog.trello.com/why-context-switching-ruins-productivity).
-
-### Completed This Month (not visible)
-
-Games I've actually finished this month. Currently, that's Regency Solitaire, FEZ, and Bayonetta. My sister pointed out that I'm probably not closing the loop on my experiences unless I actually write about the games I play, and she's absolutely right. So any game that makes it into this category will be written about.
+---
 
 Where before I might have languished in a sort of gaming purgatory, wondering how best to spend my time, this system allows me to grab the next game without wondering whether it's a good use of time, and already I've seen drastic improvements, notably:
 
