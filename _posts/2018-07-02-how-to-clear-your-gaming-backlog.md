@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Optimizing Fun
+title: How to Clear Your Gaming Backlog
 ---
 
 I,
