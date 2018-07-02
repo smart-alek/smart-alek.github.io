@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Optimizing Fun
-published: false
 ---
 
 I,
@@ -10,14 +9,15 @@ have an obscenely large backlog of games.
 
 It began many years ago
 when I received _The Orange Box_ as a gift.
-_Half-Life 2_ demanded
-to be played through something called "Steam",
+_Half-Life 2_ demanded to be played
+through something called "Steam",
 and I begrudgingly installed the software.
 
-"There. Are you happy?" I asked _Half-Life 2_.
-"Yes," it said.
-"Thank you for selling your soul to Valve,
-we will take good care of it."
+"There," I said.
+"Are you happy?"
+"Yes," said Steam.
+"Thank you for selling your soul to me,
+I will take good care of it."
 
 Since then,
 the games have piled up with alarming velocity.
@@ -28,8 +28,7 @@ the alluring promise of something **new** and **different**.
 
 I have succumbed to many of these temptations,
 and the sheer weight of my backlog often paralyzes me.
-When I sit down
-to play a game,
+When I sit down to play a game,
 I am pursued by a disturbing doubt:
 is this **really** the most fun I could be having right now?
 
@@ -42,15 +41,16 @@ to actually consume it all.
 Even if you don't share my exact affliction,
 you likely have a problem with some other medium.
 Have you read every book you own?
-Or worse: every book you **want** to read?
+Or worse:
+every book you **want** to read?
 Ghastly.
 
 When I hit the weekend,
 I often wring my hands,
 knowing that free time is **special**.
-And there is a tremendous urge
+And there's a tremendous urge
 to maximize my use of it.
-I am ashamed to admit
+I'm ashamed to admit
 how much time I've spent scrolling through my Steam library,
 hoping to select The Best Game for the eve.
 
@@ -58,17 +58,16 @@ Fortunately for myself and my sanity,
 I work in tech,
 an industry filled with people
 who like doing things efficiently.
-These engineers and product managers have developed tools and processes
-to Prioritize Things,
-and I,
-in a fit of productivity,
+These engineers and product managers have developed
+tools and processes to Prioritize Things,
+and I, in a fit of productivity,
 have applied these processes
 to all the media I'm trying to consume.
 
 Behold!
 My Trello board for games.
 
-![Are you not entertained?]({{ "/assets/games-trello.png" | absolute_url }})
+![trello-board][]
 
 ## The System
 
@@ -100,21 +99,23 @@ A list of games I'm currently playing.
 I try to keep this list as short as possible
 to minimize [work in progress](https://www.atlassian.com/agile/kanban/wip-limits) and [context switching](https://blog.trello.com/why-context-switching-ruins-productivity).
 
-### Completed This Month
+### Writing
 
-Games I've finished this month.
 My sister observed
 that I'm probably not processing my feelings on a game
 unless I write about it,
-and she's absolutely right.
-So I'll probably be adding another list
-for completed games that are being analyzed.
+and she's absolutely right!
+So these are games I've finished
+and am **processing**.
+I'll be adding another list
+to capture games that are Truly Done.
 
 ## The Metrics
 
-The "To Play" list is the most important one.
-I rank games in this list by two metrics:
-**quality** and **time**.
+The order of games in each list is arbitrary,
+**EXCEPT** for the "To Play" list,
+where games are ranked by two metrics:
+**Quality** and **Time**.
 
 ### Quality
 
@@ -134,27 +135,28 @@ Yes!
 There's a whole list!
 We have a finite amount of time on this planet,
 so spending it on mediocrity makes me barf.
-I want quality games to bubble to the top of a list.
+I want Quality Games to bubble to the top of a list.
 Then,
 without thinking,
 I can pluck a game from the top
 and know I'm getting a Quality Game.
 
-So what **is** a Quality Qame?
-This is absolutely the title of another blog post,
+So what **is** a Quality Game?
+This is absolutely another blog post,
 but for now, be content with some unexplained bullet points.
 
 _A game is high quality if it..._
 
-- keeps me in a [flow state](https://www.gamasutra.com/view/feature/166972/cognitive_flow_the_psychology_of_.php) for most of its duration.
-- causes an emotional reaction.
-- self-contained and doesn't require external sources like wikis or guides.
+- consistently keeps me in a [flow state](https://www.gamasutra.com/view/feature/166972/cognitive_flow_the_psychology_of_.php).
+- affects me emotionally.
+- doesn't require me to use wikis or guides.
 
-Without actually playing a game,
+Without actually **playing** a game,
 it can be tricky to know
 whether it satisfies any of these conditions.
-So (unfortunately) I have to rely on trusted sources
-like [Rock, Paper, Shotgun](https://www.rockpapershotgun.com/).
+So (unfortunately) I have to rely on trustworthy sources
+like [Rock, Paper, Shotgun](https://www.rockpapershotgun.com/)
+and untrustworthy sources like friends.
 
 ### Time
 
@@ -164,12 +166,12 @@ or push past 100 with a behemoth like _Skyrim_.
 In my experience,
 the most impactful games are between 8-12 hours,
 or about the length of a season of _Game of Thrones_.
-Long games are more prone to bloating or padding --
-you'll likely have to grind or farm at some point.
-These are design smells and wastes of time.
 
-This doesn't mean that long games are **off** the table;
-they should just be **further down** the table.
+Long games are more prone to padding --
+you'll likely have to grind or farm at some point,
+both of which are design smells and wastes of my time.
+This doesn't mean long games are **off** the table;
+they're just **further down** the table.
 This is apparently a [very French way](https://spoonuniversity.com/lifestyle/10-ways-the-french-view-food-differently-than-americans) of consuming things.
 
 So! This metric really boils down to two rules:
@@ -183,17 +185,27 @@ The first rule eliminates games that occur in matches, sessions, or runs.
 This means games like _League of Legends_, _Civilization_, and every roguelike are at an immediate disadvantage.
 Sites like [HowLongToBeat](https://howlongtobeat.com/) help me get a sense of the time required before I commit to anything.
 
-# Onward!
+## Housekeeping
 
-So that's the system!
-I am sure it's broken!
+So that's my system!
+I am sure it's broken
+in some way I haven't considered.
 But so far it's been helping me make decisions,
 and that, at least, is a win.
 
-**Every Monday morning**,
+Since this is my first blog post in a while,
+I should briefly talk about timing and content.
+**Every Sunday night at a random time**,
 I'll be publishing a new blog post.
-Most of these will be about games or other media,
+You can either stay up late
+and read it with bleary eyes,
+or you can get a solid night's sleep
+and read it with coffee.
+
+Most of these blog posts are going to be about games or other media,
 but there will also be occasional detours into other subjects,
 depending on my mood or attention span.
+If you don't like games or reading about them,
+then go read my other stories and stop complaining!
 
-UNTIL THEN.
+[trello-board]: {{ "/assets/games-trello.png" | absolute_url }}
