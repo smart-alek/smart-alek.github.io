@@ -147,7 +147,7 @@ He tried to form words with his lips, but they seemed to be made of loose rubber
 
 Mirrors of all shapes --- rectangles, ellipses, trapezoids --- descended into Montgomery’s field of vision. For a moment, he could only see the doctor’s mouth, a neutral horizontal line. Then, he heard the grating of gears, the angle tilted, and Montgomery saw his brain.
 
-It was made of hundreds of marbles, glinting in the lamp’s sterile fluorescence. THey were of various sizes and sheens, but all were perfectly spherical. And pushing through them was a twisted weed of a plant, its tendrils wrapped tightly around some of the orbs.
+It was made of hundreds of marbles, glinting in the lamp’s sterile fluorescence. They were of various sizes and sheens, but all were perfectly spherical. And pushing through them was a twisted weed of a plant, its tendrils wrapped tightly around some of the orbs.
 
 He screamed and tried to sit up, but couldn’t; restraints held him firmly in place.
 
