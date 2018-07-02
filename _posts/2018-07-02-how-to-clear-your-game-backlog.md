@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Clear Your Gaming Backlog
+title: How to Clear Your Game Backlog
 ---
 
 I,
