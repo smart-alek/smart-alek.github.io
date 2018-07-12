@@ -3,8 +3,6 @@ layout: post
 title: "Review: Life Is Strange"
 ---
 
-![life-is-strange][]
-
 The second time I played _Life Is Strange_,
 I cried.
 The first time,
@@ -161,5 +159,3 @@ force a few tears out,
 then play _The Wolf Among Us_ seventeen times.
 
 ## Score: 71%
-
-[life-is-strange]: {{ "/assets/life-is-strange.png" | absolute_url }}
