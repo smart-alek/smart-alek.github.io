@@ -15,7 +15,7 @@ But _Valiant Hearts: The Great War_ is a different sort of war game. It will mak
 
 Everything starts in the town of Saint-Mihiel, France. There, we meet a strapping young man named Karl and his family: wife, newborn son, and father-in-law, Emile. Unfortunately Karl is German, so when war erupts in Austria-Hungary, he’s deported back to his homeland. As Karl’s family tries to cope with their loss, the elderly Emile is drafted into the French army. All of this happens in less than five minutes of game time.
 
-It's like the _Up_ of games, and like its Pixar counterpart, _Valiant Hearts_ enjoys juxtaposing very different emotions. Before boarding a train to the front, Emile bumps into a group of French soldiers throwing baguettes at an African-American engineer named Freddie. Luckily Emile doesn’t like racists, so he breaks them up and forges a friendship with Freddie. Then you get to solve a fun polka music puzzle!
+It's the _Up_ of games, and like its Pixar counterpart, _Valiant Hearts_ enjoys juxtaposing very different emotions. Before boarding a train to the front, Emile bumps into a group of French soldiers throwing baguettes at an African-American engineer named Freddie. Luckily Emile doesn’t like racists, so he breaks them up and forges a friendship with Freddie. Then you get to solve a fun polka music puzzle!
 
 It’s this kind of emotional contrast that distinguishes _Valiant Hearts_ from other war games -- even ones that don't glorify war. In _This War of Mine_, you manage a group of civilians a warzone. To survive, you have to ration food, beat up other survivors, and hope your folks don’t succumb to insanity or depression! A great game, but hardly nuanced in its emotional playbook.
 
