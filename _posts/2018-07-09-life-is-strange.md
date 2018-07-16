@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: Life Is Strange"
+title: "Life Is Strange (review)"
 ---
 
 The second time I played _Life Is Strange_,

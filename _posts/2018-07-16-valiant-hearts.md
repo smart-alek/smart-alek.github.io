@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: 'Valiant Hearts: The Great War'"
+title: "Valiant Hearts: The Great War (review)"
 ---
 
 War. War never changes. Or at least — games about war usually don’t. Let me show you.
