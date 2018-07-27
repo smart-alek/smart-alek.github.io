@@ -10,5 +10,5 @@ title: Fiction
 [_The Mask of the Skeleton Crew_][skeleton] (April 12, 2017)
 
 [beep-boop]: {{ site.baseurl }}/fiction/beep-boop
-[montgomery-blique]: {{ site.baseurl }}/short-stories/montgomery-blique 
+[montgomery-blique]: {{ site.baseurl }}/fiction/montgomery-blique 
 [skeleton]: {{ site.baseurl }}/fiction/mask-of-the-skeleton-crew

@@ -29,5 +29,3 @@ exclude:
 collections:
   fiction:
     output: true
-  short-stories:
-    output: true
