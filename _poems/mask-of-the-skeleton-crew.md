@@ -65,9 +65,9 @@ _And one day a visitor answered their prayers,_
 _a stranger who went by the name of McNair --_
 
 "That's your name!" I shout, and there's hardly a doubt  
-in my heart that I'm right once again.
-In each of your stories,
-no matter how gory,
+in my heart that I'm right once again.  
+In each of your stories,  
+no matter how gory,  
 you save everyone in the end.
 
 "Indeed, and good ear, but the tale won't end here;  
@@ -83,7 +83,7 @@ _A horse of the sea that devoured with precision,_
 
 _He captained a vessel of oak and of pine,_  
 _his features were hard but his voice soft and kind._  
-_He'd **seen** things and **been** things; the lines on his face_
+_He'd **seen** things and **been** things; the lines on his face_  
 _were drawn with dark ink, and his cuffs with white lace;_  
 _both skin and boots weathered, from storm and from salt,_  
 _as if all the woes of the world were his fault._  
@@ -132,14 +132,14 @@ _but bring us all back when you've finished your task."_
 
 _McNair cleared his throat as he put on the mask,_  
 _"My dearly departed, I come here to ask_  
-_a favor; you'll savor this quest, I just know it!_
-_Now wake up and take up your arms, and we'll go get_
+_a favor; you'll savor this quest, I just know it!_  
+_Now wake up and take up your arms, and we'll go get_  
 _a prize of large size. Such a grand acquisition:_  
 _**"Ingens Hippocampus"** —- the last bloody mission!"_
 
 _And then from that skeletal mass came a sound:_  
-_a spine-chilling grinding that made the heart pound._
-_Femur and pelvis, phalanges and skulls_
+_a spine-chilling grinding that made the heart pound._  
+_Femur and pelvis, phalanges and skulls_  
 _arose in death throes from beneath splintered hulls._
 
 _The ground was soon teeming with hundreds of bones;_  
@@ -242,7 +242,7 @@ _green-ish, obscene-ish but not all that bright._
 _Invertebrate prey lay decaying in silence:_  
 _slugs and sea-spiders -- all conquered by violence._  
 
-_Then deep from th ebelly... a cry for assistance!_  
+_Then deep from the belly... a cry for assistance!_  
 _a clear and sheer shriek that became more insistent._  
 _And tucked in the mouth of a giant clamshell_  
 _was McNair's only niece -- alive but not well._  
@@ -266,8 +266,8 @@ _they'd get the fish drunk and then ride the vomit._
 
 "Ewwwww!"I exclaim, and I wrinkle my nose,  
 my role as the sole audience.  
-You let loose a guffaw,
-and then laugh yourself raw;
+You let loose a guffaw,  
+and then laugh yourself raw;  
 you know that I take no offense.
 
 The fireplace gasps as it burns through its last  
@@ -279,7 +279,7 @@ as the hail pelts the roof like hard rocks.
 _With one hand McNair kept his grip on the mask,_  
 _the other searched pockets, produced a small flask_  
 _of 'Hallihan's Halberd' -- a powerful rum:_  
-_"_For throats and knees; potency sure to make numb!_"_
+"For throats and knees; potency sure to make numb!"
 
 _He uncorked the stopper and emptied the liquor,_  
 _then waited, breath bated, his pulse all a'flicker._  
@@ -310,8 +310,8 @@ ferociously proud and content.
 
 A knock at the door then, softly at first:  
 so slight and polite, barely there.  
-Then a bump, then a Thump,
-then a terrible WHUMP,
+Then a bump, then a Thump,  
+then a terrible WHUMP,  
 and a bone-chilling cry for _McNair_.
 
 Your grin disappears, and there's fear in its place,  
@@ -346,6 +346,6 @@ back tears, though I tried to be tough.
 
 "Protector Protector" protected me twice;  
 the man was exceedingly rare.  
-A kind soul but fearless,
-a hero so peerless:
+A kind soul but fearless,  
+a hero so peerless:  
 my uncle, _the_ Captain McNair.
