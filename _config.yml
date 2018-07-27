@@ -27,6 +27,8 @@ exclude:
   - Gemfile.lock
 
 collections:
+  fiction:
+    output: true
   poems:
     output: true
   short-stories:
