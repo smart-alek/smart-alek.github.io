@@ -183,3 +183,169 @@ _The sea was quite calm, almost eerily so,_
 _their passage was lit by the moon's ghostly glow._  
 _No words, conversations, or gossip aboard;_  
 _the dead worked in silence; McNair gripped his sword._
+
+_On day fifty-seven, surrounded by mist,_  
+_McNair lost his temper and slammed down his fist._  
+_You cowardly fish... you'll wish you had died!_  
+_Get up here and face me! Real monsters don't hide!"_  
+
+_The skeletons watched him with blank, sightless eyes;_  
+_they weren't in the least bit concerned or surprised._  
+_Instead, they stood waiting for further commands._  
+_The ocean said nothing; McNair wrung his hands._  
+
+_And at this low point in the captain's career,_  
+_beneath the dark waters, he thought he could hear_  
+_a fearsome rebuttal, a terrible sound --_  
+_"Ingens Hippocampus" at last had been found._  
+
+_"Harpoons!" cried the captain. "Our quarry's arrived!"_  
+_The ship buzzed with bodies, a hustling hive._  
+_One splash off of starboard, two splashes to port;_  
+_the hull gave a groan and began to contort._  
+
+_Cacophonous clicking was heard from astern,_  
+_sulfurous fumes wafted and made eyeballs burn._  
+_Up from the ocean, the motion hypnotic,_  
+_rose razor-sharp spines of a Demon Aquatic._  
+
+_"Now!" screamed McNair, and his army obeyed,_  
+_releasing a volley of platinum blades,_  
+_which flew through the air toward the monster's thick armor,_  
+_but shattered on contact; no weapon could harm her._  
+
+_A primal snort thundered from out of her snout;_  
+_she lowered her head, and McNair had no doubt_  
+_the foul beast had tired of taunting her prey;_  
+_in seconds, the crow's nest was ripped clean away --_  
+_the rigging soon after -- the mainsail -- the mast!_  
+_the ship was devoured, and the crew followed fast._  
+
+"That's the **end**?" I shout crossly. "There's got to be more!  
+He **has** to survive to be **you**!"  
+You grin and say roughly,  
+"McNair, he's so tough, he  
+survived with the bulk of his crew."
+
+_McNair held his breath and a piece of his ship_  
+_as he slid into darkness: a tense, slimy trip._  
+_Some skeletons followed, were swallowed as well._  
+_Together they tumbled, together they fell._  
+
+_They landed in piles, in miles of guts,_  
+_but McNair was alive (all he had were small cuts)._  
+_Around them the stench of digestion was thick:_  
+_a roiling embroiling that made McNair sick._  
+
+_Luminous algae provided some light:_  
+_green-ish, obscene-ish but not all that bright._  
+_Invertebrate prey lay decaying in silence:_  
+_slugs and sea-spiders -- all conquered by violence._  
+
+_Then deep from th ebelly... a cry for assistance!_  
+_a clear and sheer shriek that became more insistent._  
+_And tucked in the mouth of a giant clamshell_  
+_was McNair's only niece -- alive but not well._  
+
+_Eyes gleaming, tears streaming, he scooped up the baby,_  
+_then scanned for the rest of his family; maybe_  
+_they'd made their escape from the bowels of this beast?_  
+_Alas, he knew not (may their souls rest in peace)._  
+
+_So now they were trapped in mishappenings, frightened;_  
+_courage was fleeting, reflexes were heightened._  
+_McNair had his niece in one piece, it was true..._  
+_but what did that mean 'neath the great endless blue?_  
+_No food and no water and still they were stuck_  
+_in the rank and dank dark of a seahorse stomach._  
+
+_Then! with the clink and the chink of gears turning,_  
+_McNair felt a plan start to form; it was churning_  
+_upset like a belly -- aha, that was it!_  
+_they'd get the fish drunk and then ride the vomit._  
+
+"Ewwwww!"I exclaim, and I wrinkle my nose,  
+my role as the sole audience.  
+You let loose a guffaw,
+and then laugh yourself raw;
+you know that I take no offense.
+
+The fireplace gasps as it burns through its last  
+lonely logs, and it sputters in shock.  
+The storm is so near, but  
+you pour some more beer  
+as the hail pelts the roof like hard rocks.
+
+_With one hand McNair kept his grip on the mask,_  
+_the other searched pockets, produced a small flask_  
+_of 'Hallihan's Halberd' -- a powerful rum:_  
+_"_For throats and knees; potency sure to make numb!_"_
+
+_He uncorked the stopper and emptied the liquor,_  
+_then waited, breath bated, his pulse all a'flicker._  
+_The gizzard galumphed with gratuitous squelching,_  
+_a build-up, it filled up with billowing belching._
+
+_They rode on a wave of gelatinous bile,_  
+_a terrible trip that went on for a mile._  
+_Out of its snout and then over the ocean,_  
+_they sailed 'cross the sky on the beast's gut explosion._
+
+_A passing explorer named Donovan Wiles_  
+_rescued them, fed them; the man was all smiles._  
+_A self-proclaimed optimist (rare way out there)_  
+_had saved both their lives: the niece and McNair._
+
+_And they sailed for a time and returned in one piece,_  
+_and so did the mask -- not a scratch!_  
+_But the skeletons sank_  
+_with the raw and the rank;_  
+_the dead had indeed met their match._
+
+I clap and I cheer while you down all your beer  
+with panache and a brash elegance.  
+You wipe your beard clean  
+and then grin as you preen,  
+ferociously proud and content.
+
+A knock at the door then, softly at first:  
+so slight and polite, barely there.  
+Then a bump, then a Thump,
+then a terrible WHUMP,
+and a bone-chilling cry for _McNair_.
+
+Your grin disappears, and there's fear in its place,  
+a gasp and a yell right on cue:  
+"Alas and alack, for  
+they've finally come back for  
+the Mask of the Skeleton Crew."
+
+You snatch my hands quick —- I hear a soft _snick_!  
+and musketballs blaze through the air.  
+We tear through the hall  
+and the sounds of the squall  
+are mixed with those cries for _McNair_.
+
+"Protector Protector!" you shout to me then,  
+"You've heard of him, yes, it's all true!  
+They called me that name  
+when I summoned and tamed  
+the souls of the skeleton crew.
+
+I left them behind when the ship was destroyed,  
+and it's clear they're not here just to haunt;  
+it took them some time,  
+but the mask isn't mine;  
+don't cry for it's _my_ life they want."
+
+That's when you left, and I'll never forget  
+your expression: a face full of love.  
+And the skeletons followed  
+your steps while I swallowed  
+back tears, though I tried to be tough.
+
+"Protector Protector" protected me twice;  
+the man was exceedingly rare.  
+A kind soul but fearless,
+a hero so peerless:
+my uncle, _the_ Captain McNair.
