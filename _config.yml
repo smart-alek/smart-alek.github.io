@@ -29,7 +29,5 @@ exclude:
 collections:
   fiction:
     output: true
-  poems:
-    output: true
   short-stories:
     output: true

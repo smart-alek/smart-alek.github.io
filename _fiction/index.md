@@ -7,5 +7,5 @@ title: Fiction
 
 [_The Mask of the Skeleton Crew_][skeleton] (April 12, 2017)
 
-[beep-boop]: {{ site.baseurl }}/poems/beep-boop
-[skeleton]: {{ site.baseurl }}/poems/mask-of-the-skeleton-crew
+[beep-boop]: {{ site.baseurl }}/fiction/beep-boop
+[skeleton]: {{ site.baseurl }}/fiction/mask-of-the-skeleton-crew
