@@ -29,3 +29,5 @@ exclude:
 collections:
   fiction:
     output: true
+  nonfiction:
+    output: true
